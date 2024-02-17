@@ -37,4 +37,4 @@ out/
 .vscode/
 
 ##3 쩔어쩔어 ###
-application.properties
+src/main/resources/application.properties
